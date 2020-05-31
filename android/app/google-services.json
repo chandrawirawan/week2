@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508059878164",
+    "firebase_url": "https://movpedia-develop.firebaseio.com",
+    "project_id": "movpedia-develop",
+    "storage_bucket": "movpedia-develop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508059878164:android:9afb7c0040212082813801",
+        "android_client_info": {
+          "package_name": "com.movpedia.movpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508059878164-f4usvd95rc41il4vfhf3duv8sounuqp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2_Mx9s9wb7so1fABa3VLuQR4FopDIXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508059878164-f4usvd95rc41il4vfhf3duv8sounuqp3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "508059878164-astg89lnqu19c47de5acfj9j5ouq675r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.movpedia.movpedia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
